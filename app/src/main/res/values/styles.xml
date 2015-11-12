@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="Theme.AppCompat.NoActionBar">
+
+    </style>
+
+    <style name="BackgroundStyle">
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="TextStyle">
+        <item name="android:textColor">@color/grey</item>
+    </style>
+
+</resources>
